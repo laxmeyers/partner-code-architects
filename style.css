@@ -6,6 +6,11 @@ header{
 .hero{
     background-image: url(https://images.unsplash.com/photo-1479839672679-a46483c0e7c8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=410&q=80);
     height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+
+    align-items: center;
 }
 
 .border-bottom{
@@ -24,5 +29,7 @@ img{
     object-fit: cover;
 }
 
-.btn-width{
+.bottom-img{
+    background-image: url(https://media.istockphoto.com/id/173569371/photo/edmonton-from-33000-ft.jpg?s=1024x1024&w=is&k=20&c=CbtukWeDrgIzNDbklx2kbf88fyt9yiHVN6O1_Lqj9vk=);
+    height: 100vh;
 }
