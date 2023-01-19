@@ -38,4 +38,5 @@ header{
 .bottom-img{
     background-image: url(https://media.istockphoto.com/id/173569371/photo/edmonton-from-33000-ft.jpg?s=1024x1024&w=is&k=20&c=CbtukWeDrgIzNDbklx2kbf88fyt9yiHVN6O1_Lqj9vk=);
     height: 100vh;
+    background-size: cover;
 }
