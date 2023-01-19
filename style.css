@@ -8,4 +8,18 @@ header{
     height: 100vh;
 }
 
-.border-bottom
+.border-bottom{
+    border-bottom: 2px solid grey;
+}
+
+.magic-words{
+    background-color: black;
+    transform: translateY(5.5vh);
+    width: ;
+}
+
+.house-img{
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+}
