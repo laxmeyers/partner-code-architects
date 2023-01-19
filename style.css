@@ -18,8 +18,11 @@ header{
     width: ;
 }
 
-.house-img{
+img{
     height: 30vh;
     width: 100%;
     object-fit: cover;
+}
+
+.btn-width{
 }
