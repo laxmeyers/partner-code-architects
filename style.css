@@ -20,10 +20,16 @@ header{
 .magic-words{
     background-color: black;
     transform: translateY(5.5vh);
-    width: ;
 }
 
-img{
+.img-person{
+    height: 30vh;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+.house-img{
     height: 30vh;
     width: 100%;
     object-fit: cover;
